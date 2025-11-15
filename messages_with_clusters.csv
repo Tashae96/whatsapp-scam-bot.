@@ -1,0 +1,651 @@
+text,label,scam_type,timestamp,text_clean,cluster
+Can you send the report by tomorrow morning?,legit,none,2025-01-14 21:52:00,can you send the report by tomorrow morning,4
+Call me when you are free.,legit,none,2025-02-06 09:06:00,call me when you are free,2
+Happy birthday! Hope you have a great day :),legit,none,2025-03-16 06:37:00,happy birthday hope you have a great day,6
+Urgent! Send money to this number or I'll be in trouble.,scam,other,2025-03-17 19:21:00,urgent send money to this number or ill be in trouble,8
+Happy birthday! Hope you have a great day :),legit,none,2025-01-01 03:41:00,happy birthday hope you have a great day,6
+"Transfer me $200 now, my account is frozen.",scam,other,2025-01-16 11:20:00,transfer me 200 now my account is frozen,9
+Let's push the deployment to Friday.,legit,none,2025-01-07 10:47:00,lets push the deployment to friday,5
+"I just sent you a code by mistake, can you forward it?",scam,otp,2025-03-16 13:47:00,i just sent you a code by mistake can you forward it,4
+You have won a prize! Click this link to claim your reward: http://scam.example,scam,phishing,2025-02-19 23:47:00,you have won a prize click this link to claim your reward,6
+Call me when you are free.,legit,none,2025-02-08 04:27:00,call me when you are free,2
+"Hey, are we still meeting at 5pm?",legit,none,2025-02-18 22:28:00,hey are we still meeting at 5pm,1
+Can you send the report by tomorrow morning?,legit,none,2025-02-15 23:57:00,can you send the report by tomorrow morning,4
+"Hey it's Sam, lost my phone. I changed numbers, send me the verification code.",scam,impersonation,2025-03-21 06:34:00,hey its sam lost my phone i changed numbers send me the verification code,9
+Let's push the deployment to Friday.,legit,none,2025-03-05 21:08:00,lets push the deployment to friday,5
+Can you send the report by tomorrow morning?,legit,none,2025-03-02 16:56:00,can you send the report by tomorrow morning,4
+Happy birthday! Hope you have a great day :),legit,none,2025-02-24 06:52:00,happy birthday hope you have a great day,6
+You have won a prize! Click this link to claim your reward: http://scam.example,scam,phishing,2025-03-21 03:40:00,you have won a prize click this link to claim your reward,6
+"Hey, are we still meeting at 5pm?",legit,none,2025-01-03 06:38:00,hey are we still meeting at 5pm,1
+You have won a prize! Click this link to claim your reward: http://scam.example,scam,phishing,2025-02-09 23:20:00,you have won a prize click this link to claim your reward,6
+"Hey, are we still meeting at 5pm?",legit,none,2025-01-11 04:22:00,hey are we still meeting at 5pm,1
+Can you send the report by tomorrow morning?,legit,none,2025-01-01 15:42:00,can you send the report by tomorrow morning,4
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-26 07:40:00,hey are we still meeting at 5pm,1
+Your parcel is ready for delivery. Click http://fake-delivery.example to confirm.,scam,phishing,2025-03-22 22:58:00,your parcel is ready for delivery click to confirm,3
+Let's push the deployment to Friday.,legit,none,2025-01-11 03:41:00,lets push the deployment to friday,5
+Can you send the report by tomorrow morning?,legit,none,2025-02-11 07:10:00,can you send the report by tomorrow morning,4
+Your parcel is ready for delivery. Click http://fake-delivery.example to confirm.,scam,phishing,2025-02-20 06:24:00,your parcel is ready for delivery click to confirm,3
+Bank alert: Your account needs verification. Login at http://bank.example,scam,phishing,2025-01-28 19:06:00,bank alert your account needs verification login at,7
+Call me when you are free.,legit,none,2025-03-11 16:59:00,call me when you are free,2
+Call me when you are free.,legit,none,2025-01-11 12:37:00,call me when you are free,2
+Your account code 987654 — please confirm by sending it here.,scam,otp,2025-02-02 20:21:00,your account code NUM — please confirm by sending it here,0
+Let's push the deployment to Friday.,legit,none,2025-02-18 00:43:00,lets push the deployment to friday,5
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-03-07 09:15:00,please send me the 6digit code i sent you — i need to log in,8
+Happy birthday! Hope you have a great day :),legit,none,2025-02-20 05:09:00,happy birthday hope you have a great day,6
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-01-24 14:12:00,this is whatsapp support your otp is NUM please share to verify,3
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-17 23:12:00,hey are we still meeting at 5pm,1
+WhatsApp verification code: 824156. Please share the code so I can confirm.,scam,otp,2025-02-13 08:02:00,whatsapp verification code NUM please share the code so i can confirm,0
+WhatsApp verification code: 855053. Please share the code so I can confirm.,scam,otp,2025-02-06 23:51:00,whatsapp verification code NUM please share the code so i can confirm,0
+"Hey, are we still meeting at 5pm?",legit,none,2025-01-29 01:24:00,hey are we still meeting at 5pm,1
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-22 00:47:00,hey are we still meeting at 5pm,1
+You have won a prize! Click this link to claim your reward: http://scam.example,scam,phishing,2025-01-03 08:30:00,you have won a prize click this link to claim your reward,6
+Hi it's John on a new number — can you confirm my code? 564321,scam,impersonation,2025-01-12 11:47:00,hi its john on a new number — can you confirm my code NUM,0
+You have won a prize! Click this link to claim your reward: http://scam.example,scam,phishing,2025-03-13 17:02:00,you have won a prize click this link to claim your reward,6
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-02-21 08:55:00,this is whatsapp support your otp is NUM please share to verify,3
+Let's push the deployment to Friday.,legit,none,2025-01-19 14:12:00,lets push the deployment to friday,5
+Let's push the deployment to Friday.,legit,none,2025-01-23 06:58:00,lets push the deployment to friday,5
+Let's push the deployment to Friday.,legit,none,2025-02-24 22:51:00,lets push the deployment to friday,5
+"Hey, are we still meeting at 5pm?",legit,none,2025-02-23 04:09:00,hey are we still meeting at 5pm,1
+Hi it's John on a new number — can you confirm my code? 564321,scam,impersonation,2025-01-07 19:27:00,hi its john on a new number — can you confirm my code NUM,0
+"I just sent you a code by mistake, can you forward it?",scam,otp,2025-01-28 04:19:00,i just sent you a code by mistake can you forward it,4
+Happy birthday! Hope you have a great day :),legit,none,2025-01-08 04:08:00,happy birthday hope you have a great day,6
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-06 10:18:00,hey are we still meeting at 5pm,1
+Your account code 987654 — please confirm by sending it here.,scam,otp,2025-03-22 01:36:00,your account code NUM — please confirm by sending it here,0
+Can you send the report by tomorrow morning?,legit,none,2025-01-25 06:50:00,can you send the report by tomorrow morning,4
+"Hey it's Sam, lost my phone. I changed numbers, send me the verification code.",scam,impersonation,2025-03-13 03:16:00,hey its sam lost my phone i changed numbers send me the verification code,9
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-02-20 02:20:00,this is whatsapp support your otp is NUM please share to verify,3
+Can you send the report by tomorrow morning?,legit,none,2025-02-06 06:27:00,can you send the report by tomorrow morning,4
+Can you send the report by tomorrow morning?,legit,none,2025-03-30 20:33:00,can you send the report by tomorrow morning,4
+Happy birthday! Hope you have a great day :),legit,none,2025-02-19 20:59:00,happy birthday hope you have a great day,6
+"Hey, are we still meeting at 5pm?",legit,none,2025-01-20 21:37:00,hey are we still meeting at 5pm,1
+Your parcel is ready for delivery. Click http://fake-delivery.example to confirm.,scam,phishing,2025-02-28 22:56:00,your parcel is ready for delivery click to confirm,3
+"Hey, are we still meeting at 5pm?",legit,none,2025-02-04 19:40:00,hey are we still meeting at 5pm,1
+"I just sent you a code by mistake, can you forward it?",scam,otp,2025-03-29 10:52:00,i just sent you a code by mistake can you forward it,4
+"I just sent you a code by mistake, can you forward it?",scam,otp,2025-03-20 07:39:00,i just sent you a code by mistake can you forward it,4
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-03-25 16:56:00,please send me the 6digit code i sent you — i need to log in,8
+"Hey, are we still meeting at 5pm?",legit,none,2025-02-22 17:14:00,hey are we still meeting at 5pm,1
+WhatsApp verification code: 284430. Please share the code so I can confirm.,scam,otp,2025-03-15 04:36:00,whatsapp verification code NUM please share the code so i can confirm,0
+"Hey, are we still meeting at 5pm?",legit,none,2025-01-03 17:05:00,hey are we still meeting at 5pm,1
+You have won a prize! Click this link to claim your reward: http://scam.example,scam,phishing,2025-01-30 05:21:00,you have won a prize click this link to claim your reward,6
+"This is your colleague Mark, I'm on a temporary phone — what's the code?",scam,impersonation,2025-03-24 20:53:00,this is your colleague mark im on a temporary phone — whats the code,3
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-01-03 10:54:00,please send me the 6digit code i sent you — i need to log in,8
+"Hey, are we still meeting at 5pm?",legit,none,2025-01-08 19:06:00,hey are we still meeting at 5pm,1
+"Transfer me $200 now, my account is frozen.",scam,other,2025-01-08 04:30:00,transfer me 200 now my account is frozen,9
+Can you send the report by tomorrow morning?,legit,none,2025-01-07 05:41:00,can you send the report by tomorrow morning,4
+Hi it's John on a new number — can you confirm my code? 564321,scam,impersonation,2025-03-19 12:42:00,hi its john on a new number — can you confirm my code NUM,0
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-01-25 23:14:00,please send me the 6digit code i sent you — i need to log in,8
+"Hey, are we still meeting at 5pm?",legit,none,2025-02-26 09:03:00,hey are we still meeting at 5pm,1
+Let's push the deployment to Friday.,legit,none,2025-01-13 17:01:00,lets push the deployment to friday,5
+Bank alert: Your account needs verification. Login at http://bank.example,scam,phishing,2025-02-27 18:42:00,bank alert your account needs verification login at,7
+"We detected unusual activity, verify here: http://verify.example",scam,phishing,2025-03-26 02:18:00,we detected unusual activity verify here,0
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-01-08 18:04:00,please send me the 6digit code i sent you — i need to log in,8
+Let's push the deployment to Friday.,legit,none,2025-03-23 19:51:00,lets push the deployment to friday,5
+Can you send the report by tomorrow morning?,legit,none,2025-03-09 19:27:00,can you send the report by tomorrow morning,4
+Urgent! Send money to this number or I'll be in trouble.,scam,other,2025-01-19 03:11:00,urgent send money to this number or ill be in trouble,8
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-01-28 21:49:00,this is whatsapp support your otp is NUM please share to verify,3
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-20 09:06:00,hey are we still meeting at 5pm,1
+Call me when you are free.,legit,none,2025-03-22 14:17:00,call me when you are free,2
+Happy birthday! Hope you have a great day :),legit,none,2025-02-06 00:16:00,happy birthday hope you have a great day,6
+Your parcel is ready for delivery. Click http://fake-delivery.example to confirm.,scam,phishing,2025-03-11 14:38:00,your parcel is ready for delivery click to confirm,3
+You have won a prize! Click this link to claim your reward: http://scam.example,scam,phishing,2025-02-09 21:04:00,you have won a prize click this link to claim your reward,6
+Let's push the deployment to Friday.,legit,none,2025-01-06 04:52:00,lets push the deployment to friday,5
+"Investment opportunity, send your account details.",scam,other,2025-03-20 17:46:00,investment opportunity send your account details,7
+WhatsApp verification code: 971084. Please share the code so I can confirm.,scam,otp,2025-03-27 01:42:00,whatsapp verification code NUM please share the code so i can confirm,0
+WhatsApp verification code: 421080. Please share the code so I can confirm.,scam,otp,2025-03-02 10:26:00,whatsapp verification code NUM please share the code so i can confirm,0
+Let's push the deployment to Friday.,legit,none,2025-01-17 06:05:00,lets push the deployment to friday,5
+Call me when you are free.,legit,none,2025-02-08 09:42:00,call me when you are free,2
+"Investment opportunity, send your account details.",scam,other,2025-01-28 05:30:00,investment opportunity send your account details,7
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-29 10:51:00,hey are we still meeting at 5pm,1
+You have won a prize! Click this link to claim your reward: http://scam.example,scam,phishing,2025-03-05 16:35:00,you have won a prize click this link to claim your reward,6
+Happy birthday! Hope you have a great day :),legit,none,2025-03-28 04:25:00,happy birthday hope you have a great day,6
+WhatsApp verification code: 309044. Please share the code so I can confirm.,scam,otp,2025-03-18 09:19:00,whatsapp verification code NUM please share the code so i can confirm,0
+Let's push the deployment to Friday.,legit,none,2025-03-16 16:29:00,lets push the deployment to friday,5
+Hi it's John on a new number — can you confirm my code? 564321,scam,impersonation,2025-03-05 04:04:00,hi its john on a new number — can you confirm my code NUM,0
+Call me when you are free.,legit,none,2025-01-01 17:05:00,call me when you are free,2
+Your parcel is ready for delivery. Click http://fake-delivery.example to confirm.,scam,phishing,2025-03-28 06:02:00,your parcel is ready for delivery click to confirm,3
+"We detected unusual activity, verify here: http://verify.example",scam,phishing,2025-02-12 19:49:00,we detected unusual activity verify here,0
+Call me when you are free.,legit,none,2025-03-20 08:24:00,call me when you are free,2
+"Hey it's Sam, lost my phone. I changed numbers, send me the verification code.",scam,impersonation,2025-03-24 05:33:00,hey its sam lost my phone i changed numbers send me the verification code,9
+Call me when you are free.,legit,none,2025-02-22 10:45:00,call me when you are free,2
+You have won a prize! Click this link to claim your reward: http://scam.example,scam,phishing,2025-02-24 22:49:00,you have won a prize click this link to claim your reward,6
+Your account code 987654 — please confirm by sending it here.,scam,otp,2025-01-30 19:06:00,your account code NUM — please confirm by sending it here,0
+Can you send the report by tomorrow morning?,legit,none,2025-02-03 15:14:00,can you send the report by tomorrow morning,4
+"I just sent you a code by mistake, can you forward it?",scam,otp,2025-03-22 03:49:00,i just sent you a code by mistake can you forward it,4
+Happy birthday! Hope you have a great day :),legit,none,2025-01-09 06:35:00,happy birthday hope you have a great day,6
+Can you send the report by tomorrow morning?,legit,none,2025-02-19 15:51:00,can you send the report by tomorrow morning,4
+"This is your colleague Mark, I'm on a temporary phone — what's the code?",scam,impersonation,2025-01-04 06:25:00,this is your colleague mark im on a temporary phone — whats the code,3
+Can you send the report by tomorrow morning?,legit,none,2025-01-12 16:28:00,can you send the report by tomorrow morning,4
+"Hey, are we still meeting at 5pm?",legit,none,2025-01-14 21:53:00,hey are we still meeting at 5pm,1
+Happy birthday! Hope you have a great day :),legit,none,2025-03-23 20:59:00,happy birthday hope you have a great day,6
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-20 03:37:00,hey are we still meeting at 5pm,1
+Can you send the report by tomorrow morning?,legit,none,2025-02-10 21:18:00,can you send the report by tomorrow morning,4
+Your account code 987654 — please confirm by sending it here.,scam,otp,2025-01-11 23:34:00,your account code NUM — please confirm by sending it here,0
+Happy birthday! Hope you have a great day :),legit,none,2025-02-02 05:58:00,happy birthday hope you have a great day,6
+You have won a prize! Click this link to claim your reward: http://scam.example,scam,phishing,2025-01-30 10:12:00,you have won a prize click this link to claim your reward,6
+Let's push the deployment to Friday.,legit,none,2025-01-19 12:45:00,lets push the deployment to friday,5
+"This is your colleague Mark, I'm on a temporary phone — what's the code?",scam,impersonation,2025-01-09 05:26:00,this is your colleague mark im on a temporary phone — whats the code,3
+Let's push the deployment to Friday.,legit,none,2025-02-23 00:30:00,lets push the deployment to friday,5
+WhatsApp verification code: 879779. Please share the code so I can confirm.,scam,otp,2025-03-20 09:57:00,whatsapp verification code NUM please share the code so i can confirm,0
+You have won a prize! Click this link to claim your reward: http://scam.example,scam,phishing,2025-03-17 05:48:00,you have won a prize click this link to claim your reward,6
+Can you send the report by tomorrow morning?,legit,none,2025-02-03 03:39:00,can you send the report by tomorrow morning,4
+Call me when you are free.,legit,none,2025-01-29 19:07:00,call me when you are free,2
+Your parcel is ready for delivery. Click http://fake-delivery.example to confirm.,scam,phishing,2025-01-16 02:27:00,your parcel is ready for delivery click to confirm,3
+"Hey it's Sam, lost my phone. I changed numbers, send me the verification code.",scam,impersonation,2025-03-01 03:35:00,hey its sam lost my phone i changed numbers send me the verification code,9
+Hi it's John on a new number — can you confirm my code? 564321,scam,impersonation,2025-01-05 04:28:00,hi its john on a new number — can you confirm my code NUM,0
+"Investment opportunity, send your account details.",scam,other,2025-03-11 20:33:00,investment opportunity send your account details,7
+Call me when you are free.,legit,none,2025-01-08 21:55:00,call me when you are free,2
+Urgent! Send money to this number or I'll be in trouble.,scam,other,2025-03-03 16:15:00,urgent send money to this number or ill be in trouble,8
+"I just sent you a code by mistake, can you forward it?",scam,otp,2025-01-13 03:17:00,i just sent you a code by mistake can you forward it,4
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-01-29 21:08:00,please send me the 6digit code i sent you — i need to log in,8
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-27 11:07:00,hey are we still meeting at 5pm,1
+WhatsApp verification code: 611945. Please share the code so I can confirm.,scam,otp,2025-01-20 23:20:00,whatsapp verification code NUM please share the code so i can confirm,0
+"Hey, are we still meeting at 5pm?",legit,none,2025-01-05 04:06:00,hey are we still meeting at 5pm,1
+"Investment opportunity, send your account details.",scam,other,2025-01-01 20:31:00,investment opportunity send your account details,7
+Let's push the deployment to Friday.,legit,none,2025-02-14 11:22:00,lets push the deployment to friday,5
+"This is your colleague Mark, I'm on a temporary phone — what's the code?",scam,impersonation,2025-03-14 03:17:00,this is your colleague mark im on a temporary phone — whats the code,3
+Call me when you are free.,legit,none,2025-01-18 07:14:00,call me when you are free,2
+"Hey, are we still meeting at 5pm?",legit,none,2025-02-08 03:48:00,hey are we still meeting at 5pm,1
+"We detected unusual activity, verify here: http://verify.example",scam,phishing,2025-01-31 00:28:00,we detected unusual activity verify here,0
+"Hey, are we still meeting at 5pm?",legit,none,2025-01-22 22:11:00,hey are we still meeting at 5pm,1
+"We detected unusual activity, verify here: http://verify.example",scam,phishing,2025-01-16 19:42:00,we detected unusual activity verify here,0
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-02-06 09:03:00,this is whatsapp support your otp is NUM please share to verify,3
+Your account code 987654 — please confirm by sending it here.,scam,otp,2025-02-08 23:48:00,your account code NUM — please confirm by sending it here,0
+Happy birthday! Hope you have a great day :),legit,none,2025-01-23 17:42:00,happy birthday hope you have a great day,6
+"Hey, are we still meeting at 5pm?",legit,none,2025-02-04 13:57:00,hey are we still meeting at 5pm,1
+Happy birthday! Hope you have a great day :),legit,none,2025-01-26 23:08:00,happy birthday hope you have a great day,6
+"I just sent you a code by mistake, can you forward it?",scam,otp,2025-03-27 15:47:00,i just sent you a code by mistake can you forward it,4
+"Investment opportunity, send your account details.",scam,other,2025-03-30 14:52:00,investment opportunity send your account details,7
+Your parcel is ready for delivery. Click http://fake-delivery.example to confirm.,scam,phishing,2025-03-20 01:44:00,your parcel is ready for delivery click to confirm,3
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-03-31 06:25:00,this is whatsapp support your otp is NUM please share to verify,3
+"We detected unusual activity, verify here: http://verify.example",scam,phishing,2025-01-29 06:50:00,we detected unusual activity verify here,0
+Urgent! Send money to this number or I'll be in trouble.,scam,other,2025-01-10 16:59:00,urgent send money to this number or ill be in trouble,8
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-08 10:07:00,hey are we still meeting at 5pm,1
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-28 19:38:00,hey are we still meeting at 5pm,1
+"We detected unusual activity, verify here: http://verify.example",scam,phishing,2025-02-04 21:57:00,we detected unusual activity verify here,0
+Let's push the deployment to Friday.,legit,none,2025-03-30 11:07:00,lets push the deployment to friday,5
+Your parcel is ready for delivery. Click http://fake-delivery.example to confirm.,scam,phishing,2025-03-30 07:24:00,your parcel is ready for delivery click to confirm,3
+Urgent! Send money to this number or I'll be in trouble.,scam,other,2025-02-26 09:46:00,urgent send money to this number or ill be in trouble,8
+Call me when you are free.,legit,none,2025-03-18 02:19:00,call me when you are free,2
+Bank alert: Your account needs verification. Login at http://bank.example,scam,phishing,2025-01-09 11:37:00,bank alert your account needs verification login at,7
+Your parcel is ready for delivery. Click http://fake-delivery.example to confirm.,scam,phishing,2025-01-29 15:04:00,your parcel is ready for delivery click to confirm,3
+"Hey, are we still meeting at 5pm?",legit,none,2025-01-11 11:58:00,hey are we still meeting at 5pm,1
+"Investment opportunity, send your account details.",scam,other,2025-02-02 16:09:00,investment opportunity send your account details,7
+"Hey, are we still meeting at 5pm?",legit,none,2025-02-24 12:24:00,hey are we still meeting at 5pm,1
+Hi it's John on a new number — can you confirm my code? 564321,scam,impersonation,2025-03-21 13:41:00,hi its john on a new number — can you confirm my code NUM,0
+Let's push the deployment to Friday.,legit,none,2025-01-05 00:57:00,lets push the deployment to friday,5
+Can you send the report by tomorrow morning?,legit,none,2025-01-16 03:18:00,can you send the report by tomorrow morning,4
+Bank alert: Your account needs verification. Login at http://bank.example,scam,phishing,2025-02-01 09:56:00,bank alert your account needs verification login at,7
+You have won a prize! Click this link to claim your reward: http://scam.example,scam,phishing,2025-03-16 16:31:00,you have won a prize click this link to claim your reward,6
+Call me when you are free.,legit,none,2025-01-31 03:24:00,call me when you are free,2
+"We detected unusual activity, verify here: http://verify.example",scam,phishing,2025-03-26 10:31:00,we detected unusual activity verify here,0
+Call me when you are free.,legit,none,2025-02-08 23:55:00,call me when you are free,2
+Let's push the deployment to Friday.,legit,none,2025-03-22 04:16:00,lets push the deployment to friday,5
+Bank alert: Your account needs verification. Login at http://bank.example,scam,phishing,2025-01-12 01:15:00,bank alert your account needs verification login at,7
+Can you send the report by tomorrow morning?,legit,none,2025-01-25 01:44:00,can you send the report by tomorrow morning,4
+"Transfer me $200 now, my account is frozen.",scam,other,2025-02-25 06:09:00,transfer me 200 now my account is frozen,9
+"Investment opportunity, send your account details.",scam,other,2025-02-28 19:57:00,investment opportunity send your account details,7
+Call me when you are free.,legit,none,2025-02-24 02:44:00,call me when you are free,2
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-03-10 07:26:00,this is whatsapp support your otp is NUM please share to verify,3
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-01-05 13:50:00,this is whatsapp support your otp is NUM please share to verify,3
+Let's push the deployment to Friday.,legit,none,2025-01-13 01:21:00,lets push the deployment to friday,5
+WhatsApp verification code: 587623. Please share the code so I can confirm.,scam,otp,2025-03-05 16:00:00,whatsapp verification code NUM please share the code so i can confirm,0
+Your parcel is ready for delivery. Click http://fake-delivery.example to confirm.,scam,phishing,2025-01-26 03:28:00,your parcel is ready for delivery click to confirm,3
+"This is your colleague Mark, I'm on a temporary phone — what's the code?",scam,impersonation,2025-03-14 03:00:00,this is your colleague mark im on a temporary phone — whats the code,3
+Can you send the report by tomorrow morning?,legit,none,2025-02-23 13:28:00,can you send the report by tomorrow morning,4
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-03-16 04:24:00,this is whatsapp support your otp is NUM please share to verify,3
+Bank alert: Your account needs verification. Login at http://bank.example,scam,phishing,2025-01-28 01:34:00,bank alert your account needs verification login at,7
+"We detected unusual activity, verify here: http://verify.example",scam,phishing,2025-03-18 14:04:00,we detected unusual activity verify here,0
+Happy birthday! Hope you have a great day :),legit,none,2025-01-30 16:33:00,happy birthday hope you have a great day,6
+Call me when you are free.,legit,none,2025-02-10 20:00:00,call me when you are free,2
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-02-24 06:15:00,this is whatsapp support your otp is NUM please share to verify,3
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-03-16 19:56:00,this is whatsapp support your otp is NUM please share to verify,3
+"I just sent you a code by mistake, can you forward it?",scam,otp,2025-01-02 18:20:00,i just sent you a code by mistake can you forward it,4
+"Hey, are we still meeting at 5pm?",legit,none,2025-01-06 12:24:00,hey are we still meeting at 5pm,1
+Can you send the report by tomorrow morning?,legit,none,2025-03-22 05:28:00,can you send the report by tomorrow morning,4
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-02-24 21:49:00,please send me the 6digit code i sent you — i need to log in,8
+Let's push the deployment to Friday.,legit,none,2025-03-21 23:35:00,lets push the deployment to friday,5
+Hi it's John on a new number — can you confirm my code? 564321,scam,impersonation,2025-02-10 09:13:00,hi its john on a new number — can you confirm my code NUM,0
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-01 08:37:00,hey are we still meeting at 5pm,1
+"We detected unusual activity, verify here: http://verify.example",scam,phishing,2025-03-25 21:51:00,we detected unusual activity verify here,0
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-02-27 01:09:00,please send me the 6digit code i sent you — i need to log in,8
+Call me when you are free.,legit,none,2025-03-02 05:52:00,call me when you are free,2
+Let's push the deployment to Friday.,legit,none,2025-01-10 07:16:00,lets push the deployment to friday,5
+"Hey it's Sam, lost my phone. I changed numbers, send me the verification code.",scam,impersonation,2025-02-27 01:15:00,hey its sam lost my phone i changed numbers send me the verification code,9
+You have won a prize! Click this link to claim your reward: http://scam.example,scam,phishing,2025-02-16 07:38:00,you have won a prize click this link to claim your reward,6
+Call me when you are free.,legit,none,2025-03-25 14:28:00,call me when you are free,2
+"This is your colleague Mark, I'm on a temporary phone — what's the code?",scam,impersonation,2025-02-04 14:08:00,this is your colleague mark im on a temporary phone — whats the code,3
+Your account code 987654 — please confirm by sending it here.,scam,otp,2025-02-10 05:05:00,your account code NUM — please confirm by sending it here,0
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-01-03 14:41:00,this is whatsapp support your otp is NUM please share to verify,3
+Your parcel is ready for delivery. Click http://fake-delivery.example to confirm.,scam,phishing,2025-02-12 15:53:00,your parcel is ready for delivery click to confirm,3
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-03-20 21:39:00,this is whatsapp support your otp is NUM please share to verify,3
+Can you send the report by tomorrow morning?,legit,none,2025-03-29 03:03:00,can you send the report by tomorrow morning,4
+You have won a prize! Click this link to claim your reward: http://scam.example,scam,phishing,2025-02-07 19:39:00,you have won a prize click this link to claim your reward,6
+Call me when you are free.,legit,none,2025-02-25 10:18:00,call me when you are free,2
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-02-14 14:51:00,this is whatsapp support your otp is NUM please share to verify,3
+"We detected unusual activity, verify here: http://verify.example",scam,phishing,2025-03-31 06:32:00,we detected unusual activity verify here,0
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-02-18 08:16:00,this is whatsapp support your otp is NUM please share to verify,3
+WhatsApp verification code: 790855. Please share the code so I can confirm.,scam,otp,2025-01-08 17:14:00,whatsapp verification code NUM please share the code so i can confirm,0
+Urgent! Send money to this number or I'll be in trouble.,scam,other,2025-01-01 17:41:00,urgent send money to this number or ill be in trouble,8
+Happy birthday! Hope you have a great day :),legit,none,2025-01-01 04:42:00,happy birthday hope you have a great day,6
+Call me when you are free.,legit,none,2025-03-31 14:05:00,call me when you are free,2
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-02-17 18:05:00,please send me the 6digit code i sent you — i need to log in,8
+Let's push the deployment to Friday.,legit,none,2025-01-15 03:39:00,lets push the deployment to friday,5
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-02-14 00:12:00,please send me the 6digit code i sent you — i need to log in,8
+Can you send the report by tomorrow morning?,legit,none,2025-03-16 07:51:00,can you send the report by tomorrow morning,4
+Your account code 987654 — please confirm by sending it here.,scam,otp,2025-01-24 12:22:00,your account code NUM — please confirm by sending it here,0
+Bank alert: Your account needs verification. Login at http://bank.example,scam,phishing,2025-02-07 14:45:00,bank alert your account needs verification login at,7
+"I just sent you a code by mistake, can you forward it?",scam,otp,2025-01-14 13:55:00,i just sent you a code by mistake can you forward it,4
+Let's push the deployment to Friday.,legit,none,2025-02-09 13:45:00,lets push the deployment to friday,5
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-03-17 23:53:00,this is whatsapp support your otp is NUM please share to verify,3
+Happy birthday! Hope you have a great day :),legit,none,2025-01-25 03:20:00,happy birthday hope you have a great day,6
+Bank alert: Your account needs verification. Login at http://bank.example,scam,phishing,2025-03-16 01:15:00,bank alert your account needs verification login at,7
+Can you send the report by tomorrow morning?,legit,none,2025-03-09 01:02:00,can you send the report by tomorrow morning,4
+Happy birthday! Hope you have a great day :),legit,none,2025-02-21 01:19:00,happy birthday hope you have a great day,6
+Let's push the deployment to Friday.,legit,none,2025-01-20 02:55:00,lets push the deployment to friday,5
+Your account code 987654 — please confirm by sending it here.,scam,otp,2025-03-01 04:15:00,your account code NUM — please confirm by sending it here,0
+Urgent! Send money to this number or I'll be in trouble.,scam,other,2025-01-20 22:25:00,urgent send money to this number or ill be in trouble,8
+Happy birthday! Hope you have a great day :),legit,none,2025-03-02 12:33:00,happy birthday hope you have a great day,6
+"I just sent you a code by mistake, can you forward it?",scam,otp,2025-03-22 05:57:00,i just sent you a code by mistake can you forward it,4
+"Investment opportunity, send your account details.",scam,other,2025-02-06 00:39:00,investment opportunity send your account details,7
+"Hey, are we still meeting at 5pm?",legit,none,2025-01-01 20:20:00,hey are we still meeting at 5pm,1
+Hi it's John on a new number — can you confirm my code? 564321,scam,impersonation,2025-01-27 16:52:00,hi its john on a new number — can you confirm my code NUM,0
+Urgent! Send money to this number or I'll be in trouble.,scam,other,2025-03-04 20:00:00,urgent send money to this number or ill be in trouble,8
+Let's push the deployment to Friday.,legit,none,2025-01-20 03:09:00,lets push the deployment to friday,5
+Can you send the report by tomorrow morning?,legit,none,2025-02-16 01:07:00,can you send the report by tomorrow morning,4
+"We detected unusual activity, verify here: http://verify.example",scam,phishing,2025-03-20 15:29:00,we detected unusual activity verify here,0
+Your account code 987654 — please confirm by sending it here.,scam,otp,2025-01-01 22:10:00,your account code NUM — please confirm by sending it here,0
+Hi it's John on a new number — can you confirm my code? 564321,scam,impersonation,2025-02-18 08:21:00,hi its john on a new number — can you confirm my code NUM,0
+Your parcel is ready for delivery. Click http://fake-delivery.example to confirm.,scam,phishing,2025-02-25 11:45:00,your parcel is ready for delivery click to confirm,3
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-21 05:40:00,hey are we still meeting at 5pm,1
+"This is your colleague Mark, I'm on a temporary phone — what's the code?",scam,impersonation,2025-03-05 01:14:00,this is your colleague mark im on a temporary phone — whats the code,3
+Call me when you are free.,legit,none,2025-01-13 01:02:00,call me when you are free,2
+Happy birthday! Hope you have a great day :),legit,none,2025-02-18 03:52:00,happy birthday hope you have a great day,6
+Let's push the deployment to Friday.,legit,none,2025-02-06 12:21:00,lets push the deployment to friday,5
+Call me when you are free.,legit,none,2025-02-20 10:03:00,call me when you are free,2
+"This is your colleague Mark, I'm on a temporary phone — what's the code?",scam,impersonation,2025-01-07 05:28:00,this is your colleague mark im on a temporary phone — whats the code,3
+Your account code 987654 — please confirm by sending it here.,scam,otp,2025-03-04 06:47:00,your account code NUM — please confirm by sending it here,0
+Bank alert: Your account needs verification. Login at http://bank.example,scam,phishing,2025-02-20 04:15:00,bank alert your account needs verification login at,7
+"Hey it's Sam, lost my phone. I changed numbers, send me the verification code.",scam,impersonation,2025-03-14 11:12:00,hey its sam lost my phone i changed numbers send me the verification code,9
+"I just sent you a code by mistake, can you forward it?",scam,otp,2025-01-27 00:10:00,i just sent you a code by mistake can you forward it,4
+Can you send the report by tomorrow morning?,legit,none,2025-01-18 11:04:00,can you send the report by tomorrow morning,4
+Let's push the deployment to Friday.,legit,none,2025-01-26 08:37:00,lets push the deployment to friday,5
+Bank alert: Your account needs verification. Login at http://bank.example,scam,phishing,2025-03-30 04:56:00,bank alert your account needs verification login at,7
+Call me when you are free.,legit,none,2025-03-11 08:31:00,call me when you are free,2
+Call me when you are free.,legit,none,2025-01-06 13:09:00,call me when you are free,2
+Can you send the report by tomorrow morning?,legit,none,2025-03-06 21:27:00,can you send the report by tomorrow morning,4
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-01-12 00:26:00,please send me the 6digit code i sent you — i need to log in,8
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-03-07 22:52:00,this is whatsapp support your otp is NUM please share to verify,3
+WhatsApp verification code: 980660. Please share the code so I can confirm.,scam,otp,2025-02-28 00:59:00,whatsapp verification code NUM please share the code so i can confirm,0
+Let's push the deployment to Friday.,legit,none,2025-02-02 08:06:00,lets push the deployment to friday,5
+Urgent! Send money to this number or I'll be in trouble.,scam,other,2025-03-31 21:33:00,urgent send money to this number or ill be in trouble,8
+"Investment opportunity, send your account details.",scam,other,2025-01-27 22:20:00,investment opportunity send your account details,7
+Bank alert: Your account needs verification. Login at http://bank.example,scam,phishing,2025-02-11 10:42:00,bank alert your account needs verification login at,7
+"Hey, are we still meeting at 5pm?",legit,none,2025-01-21 20:07:00,hey are we still meeting at 5pm,1
+Can you send the report by tomorrow morning?,legit,none,2025-03-25 02:46:00,can you send the report by tomorrow morning,4
+"Transfer me $200 now, my account is frozen.",scam,other,2025-03-24 21:16:00,transfer me 200 now my account is frozen,9
+Can you send the report by tomorrow morning?,legit,none,2025-01-15 20:57:00,can you send the report by tomorrow morning,4
+Call me when you are free.,legit,none,2025-02-21 10:45:00,call me when you are free,2
+WhatsApp verification code: 768854. Please share the code so I can confirm.,scam,otp,2025-03-21 01:10:00,whatsapp verification code NUM please share the code so i can confirm,0
+Can you send the report by tomorrow morning?,legit,none,2025-02-16 05:02:00,can you send the report by tomorrow morning,4
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-03-10 10:47:00,this is whatsapp support your otp is NUM please share to verify,3
+Call me when you are free.,legit,none,2025-01-19 02:22:00,call me when you are free,2
+"Hey, are we still meeting at 5pm?",legit,none,2025-01-28 15:49:00,hey are we still meeting at 5pm,1
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-01-06 16:01:00,this is whatsapp support your otp is NUM please share to verify,3
+You have won a prize! Click this link to claim your reward: http://scam.example,scam,phishing,2025-02-07 04:03:00,you have won a prize click this link to claim your reward,6
+Let's push the deployment to Friday.,legit,none,2025-01-26 15:30:00,lets push the deployment to friday,5
+Call me when you are free.,legit,none,2025-01-28 06:00:00,call me when you are free,2
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-01-30 14:00:00,this is whatsapp support your otp is NUM please share to verify,3
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-02-25 13:17:00,this is whatsapp support your otp is NUM please share to verify,3
+Can you send the report by tomorrow morning?,legit,none,2025-02-26 00:36:00,can you send the report by tomorrow morning,4
+Your parcel is ready for delivery. Click http://fake-delivery.example to confirm.,scam,phishing,2025-01-15 07:05:00,your parcel is ready for delivery click to confirm,3
+Let's push the deployment to Friday.,legit,none,2025-01-15 19:19:00,lets push the deployment to friday,5
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-23 19:43:00,hey are we still meeting at 5pm,1
+Call me when you are free.,legit,none,2025-01-03 09:58:00,call me when you are free,2
+Let's push the deployment to Friday.,legit,none,2025-01-15 16:58:00,lets push the deployment to friday,5
+"This is your colleague Mark, I'm on a temporary phone — what's the code?",scam,impersonation,2025-03-29 20:50:00,this is your colleague mark im on a temporary phone — whats the code,3
+Happy birthday! Hope you have a great day :),legit,none,2025-03-17 21:20:00,happy birthday hope you have a great day,6
+Can you send the report by tomorrow morning?,legit,none,2025-03-20 20:51:00,can you send the report by tomorrow morning,4
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-03-31 05:57:00,please send me the 6digit code i sent you — i need to log in,8
+"Hey it's Sam, lost my phone. I changed numbers, send me the verification code.",scam,impersonation,2025-03-21 09:44:00,hey its sam lost my phone i changed numbers send me the verification code,9
+"Investment opportunity, send your account details.",scam,other,2025-01-18 07:20:00,investment opportunity send your account details,7
+"Investment opportunity, send your account details.",scam,other,2025-03-12 20:14:00,investment opportunity send your account details,7
+Let's push the deployment to Friday.,legit,none,2025-02-09 17:19:00,lets push the deployment to friday,5
+"Hey it's Sam, lost my phone. I changed numbers, send me the verification code.",scam,impersonation,2025-01-02 09:31:00,hey its sam lost my phone i changed numbers send me the verification code,9
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-02-10 02:13:00,this is whatsapp support your otp is NUM please share to verify,3
+Let's push the deployment to Friday.,legit,none,2025-03-18 14:39:00,lets push the deployment to friday,5
+WhatsApp verification code: 167348. Please share the code so I can confirm.,scam,otp,2025-02-07 18:17:00,whatsapp verification code NUM please share the code so i can confirm,0
+Happy birthday! Hope you have a great day :),legit,none,2025-01-21 05:54:00,happy birthday hope you have a great day,6
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-03-23 15:58:00,please send me the 6digit code i sent you — i need to log in,8
+Call me when you are free.,legit,none,2025-02-19 01:24:00,call me when you are free,2
+Can you send the report by tomorrow morning?,legit,none,2025-01-28 00:10:00,can you send the report by tomorrow morning,4
+You have won a prize! Click this link to claim your reward: http://scam.example,scam,phishing,2025-02-20 05:40:00,you have won a prize click this link to claim your reward,6
+"We detected unusual activity, verify here: http://verify.example",scam,phishing,2025-02-08 16:43:00,we detected unusual activity verify here,0
+"Hey it's Sam, lost my phone. I changed numbers, send me the verification code.",scam,impersonation,2025-03-31 01:12:00,hey its sam lost my phone i changed numbers send me the verification code,9
+Your account code 987654 — please confirm by sending it here.,scam,otp,2025-03-29 21:09:00,your account code NUM — please confirm by sending it here,0
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-30 04:48:00,hey are we still meeting at 5pm,1
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-31 00:26:00,hey are we still meeting at 5pm,1
+"I just sent you a code by mistake, can you forward it?",scam,otp,2025-02-14 18:14:00,i just sent you a code by mistake can you forward it,4
+Call me when you are free.,legit,none,2025-01-27 16:27:00,call me when you are free,2
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-01-09 12:00:00,please send me the 6digit code i sent you — i need to log in,8
+Let's push the deployment to Friday.,legit,none,2025-01-15 08:36:00,lets push the deployment to friday,5
+You have won a prize! Click this link to claim your reward: http://scam.example,scam,phishing,2025-03-18 05:29:00,you have won a prize click this link to claim your reward,6
+Let's push the deployment to Friday.,legit,none,2025-03-15 11:11:00,lets push the deployment to friday,5
+Happy birthday! Hope you have a great day :),legit,none,2025-02-14 04:53:00,happy birthday hope you have a great day,6
+Let's push the deployment to Friday.,legit,none,2025-01-04 11:34:00,lets push the deployment to friday,5
+"This is your colleague Mark, I'm on a temporary phone — what's the code?",scam,impersonation,2025-03-31 06:37:00,this is your colleague mark im on a temporary phone — whats the code,3
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-03-14 05:56:00,please send me the 6digit code i sent you — i need to log in,8
+Can you send the report by tomorrow morning?,legit,none,2025-01-18 07:31:00,can you send the report by tomorrow morning,4
+Let's push the deployment to Friday.,legit,none,2025-01-20 08:29:00,lets push the deployment to friday,5
+"We detected unusual activity, verify here: http://verify.example",scam,phishing,2025-02-28 22:46:00,we detected unusual activity verify here,0
+Call me when you are free.,legit,none,2025-01-08 07:00:00,call me when you are free,2
+Urgent! Send money to this number or I'll be in trouble.,scam,other,2025-01-24 05:46:00,urgent send money to this number or ill be in trouble,8
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-30 00:12:00,hey are we still meeting at 5pm,1
+"This is your colleague Mark, I'm on a temporary phone — what's the code?",scam,impersonation,2025-03-25 19:48:00,this is your colleague mark im on a temporary phone — whats the code,3
+"I just sent you a code by mistake, can you forward it?",scam,otp,2025-01-31 14:17:00,i just sent you a code by mistake can you forward it,4
+Bank alert: Your account needs verification. Login at http://bank.example,scam,phishing,2025-01-27 12:15:00,bank alert your account needs verification login at,7
+Your account code 987654 — please confirm by sending it here.,scam,otp,2025-02-14 04:54:00,your account code NUM — please confirm by sending it here,0
+WhatsApp verification code: 598216. Please share the code so I can confirm.,scam,otp,2025-02-25 15:20:00,whatsapp verification code NUM please share the code so i can confirm,0
+Let's push the deployment to Friday.,legit,none,2025-03-13 05:08:00,lets push the deployment to friday,5
+"This is your colleague Mark, I'm on a temporary phone — what's the code?",scam,impersonation,2025-01-31 05:15:00,this is your colleague mark im on a temporary phone — whats the code,3
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-02-19 09:21:00,this is whatsapp support your otp is NUM please share to verify,3
+Your parcel is ready for delivery. Click http://fake-delivery.example to confirm.,scam,phishing,2025-03-30 13:52:00,your parcel is ready for delivery click to confirm,3
+Your account code 987654 — please confirm by sending it here.,scam,otp,2025-02-16 01:17:00,your account code NUM — please confirm by sending it here,0
+"Hey it's Sam, lost my phone. I changed numbers, send me the verification code.",scam,impersonation,2025-02-04 02:51:00,hey its sam lost my phone i changed numbers send me the verification code,9
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-03-17 03:50:00,this is whatsapp support your otp is NUM please share to verify,3
+"Investment opportunity, send your account details.",scam,other,2025-01-24 02:49:00,investment opportunity send your account details,7
+"I just sent you a code by mistake, can you forward it?",scam,otp,2025-02-08 16:44:00,i just sent you a code by mistake can you forward it,4
+"Investment opportunity, send your account details.",scam,other,2025-03-09 19:51:00,investment opportunity send your account details,7
+"I just sent you a code by mistake, can you forward it?",scam,otp,2025-01-27 18:46:00,i just sent you a code by mistake can you forward it,4
+"This is your colleague Mark, I'm on a temporary phone — what's the code?",scam,impersonation,2025-03-06 01:40:00,this is your colleague mark im on a temporary phone — whats the code,3
+WhatsApp verification code: 224205. Please share the code so I can confirm.,scam,otp,2025-02-20 19:07:00,whatsapp verification code NUM please share the code so i can confirm,0
+Bank alert: Your account needs verification. Login at http://bank.example,scam,phishing,2025-03-11 04:13:00,bank alert your account needs verification login at,7
+Let's push the deployment to Friday.,legit,none,2025-02-20 11:07:00,lets push the deployment to friday,5
+Bank alert: Your account needs verification. Login at http://bank.example,scam,phishing,2025-03-25 09:11:00,bank alert your account needs verification login at,7
+Your account code 987654 — please confirm by sending it here.,scam,otp,2025-03-05 23:24:00,your account code NUM — please confirm by sending it here,0
+Let's push the deployment to Friday.,legit,none,2025-02-06 00:36:00,lets push the deployment to friday,5
+Let's push the deployment to Friday.,legit,none,2025-03-11 23:01:00,lets push the deployment to friday,5
+Call me when you are free.,legit,none,2025-01-15 07:55:00,call me when you are free,2
+You have won a prize! Click this link to claim your reward: http://scam.example,scam,phishing,2025-03-06 08:22:00,you have won a prize click this link to claim your reward,6
+Call me when you are free.,legit,none,2025-01-20 04:07:00,call me when you are free,2
+Let's push the deployment to Friday.,legit,none,2025-03-26 13:28:00,lets push the deployment to friday,5
+"We detected unusual activity, verify here: http://verify.example",scam,phishing,2025-03-24 16:27:00,we detected unusual activity verify here,0
+You have won a prize! Click this link to claim your reward: http://scam.example,scam,phishing,2025-02-22 10:49:00,you have won a prize click this link to claim your reward,6
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-03-12 14:31:00,please send me the 6digit code i sent you — i need to log in,8
+Bank alert: Your account needs verification. Login at http://bank.example,scam,phishing,2025-01-31 22:28:00,bank alert your account needs verification login at,7
+Your parcel is ready for delivery. Click http://fake-delivery.example to confirm.,scam,phishing,2025-02-12 18:45:00,your parcel is ready for delivery click to confirm,3
+"Hey, are we still meeting at 5pm?",legit,none,2025-02-05 00:32:00,hey are we still meeting at 5pm,1
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-19 20:28:00,hey are we still meeting at 5pm,1
+"Investment opportunity, send your account details.",scam,other,2025-03-03 23:21:00,investment opportunity send your account details,7
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-01-14 22:12:00,this is whatsapp support your otp is NUM please share to verify,3
+Happy birthday! Hope you have a great day :),legit,none,2025-03-05 11:04:00,happy birthday hope you have a great day,6
+Happy birthday! Hope you have a great day :),legit,none,2025-02-24 05:44:00,happy birthday hope you have a great day,6
+Your account code 987654 — please confirm by sending it here.,scam,otp,2025-03-19 07:55:00,your account code NUM — please confirm by sending it here,0
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-03 14:16:00,hey are we still meeting at 5pm,1
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-01-08 19:01:00,please send me the 6digit code i sent you — i need to log in,8
+Bank alert: Your account needs verification. Login at http://bank.example,scam,phishing,2025-03-20 17:25:00,bank alert your account needs verification login at,7
+"Hey it's Sam, lost my phone. I changed numbers, send me the verification code.",scam,impersonation,2025-01-21 16:57:00,hey its sam lost my phone i changed numbers send me the verification code,9
+Bank alert: Your account needs verification. Login at http://bank.example,scam,phishing,2025-02-09 20:17:00,bank alert your account needs verification login at,7
+Happy birthday! Hope you have a great day :),legit,none,2025-03-20 15:04:00,happy birthday hope you have a great day,6
+"Transfer me $200 now, my account is frozen.",scam,other,2025-02-04 17:06:00,transfer me 200 now my account is frozen,9
+Urgent! Send money to this number or I'll be in trouble.,scam,other,2025-03-19 16:08:00,urgent send money to this number or ill be in trouble,8
+"Hey, are we still meeting at 5pm?",legit,none,2025-01-09 19:44:00,hey are we still meeting at 5pm,1
+"I just sent you a code by mistake, can you forward it?",scam,otp,2025-02-28 12:06:00,i just sent you a code by mistake can you forward it,4
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-03-14 04:11:00,this is whatsapp support your otp is NUM please share to verify,3
+Bank alert: Your account needs verification. Login at http://bank.example,scam,phishing,2025-01-27 05:37:00,bank alert your account needs verification login at,7
+Call me when you are free.,legit,none,2025-01-26 07:43:00,call me when you are free,2
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-07 12:19:00,hey are we still meeting at 5pm,1
+Your account code 987654 — please confirm by sending it here.,scam,otp,2025-03-12 18:51:00,your account code NUM — please confirm by sending it here,0
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-03-23 03:49:00,this is whatsapp support your otp is NUM please share to verify,3
+WhatsApp verification code: 254739. Please share the code so I can confirm.,scam,otp,2025-03-01 17:10:00,whatsapp verification code NUM please share the code so i can confirm,0
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-01-05 13:42:00,please send me the 6digit code i sent you — i need to log in,8
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-03-08 19:00:00,this is whatsapp support your otp is NUM please share to verify,3
+"I just sent you a code by mistake, can you forward it?",scam,otp,2025-02-20 08:49:00,i just sent you a code by mistake can you forward it,4
+Happy birthday! Hope you have a great day :),legit,none,2025-03-17 11:44:00,happy birthday hope you have a great day,6
+Let's push the deployment to Friday.,legit,none,2025-02-09 21:02:00,lets push the deployment to friday,5
+Happy birthday! Hope you have a great day :),legit,none,2025-03-03 15:37:00,happy birthday hope you have a great day,6
+Happy birthday! Hope you have a great day :),legit,none,2025-03-08 06:48:00,happy birthday hope you have a great day,6
+"Investment opportunity, send your account details.",scam,other,2025-01-15 09:06:00,investment opportunity send your account details,7
+You have won a prize! Click this link to claim your reward: http://scam.example,scam,phishing,2025-02-15 13:17:00,you have won a prize click this link to claim your reward,6
+Let's push the deployment to Friday.,legit,none,2025-01-22 17:25:00,lets push the deployment to friday,5
+"I just sent you a code by mistake, can you forward it?",scam,otp,2025-01-26 21:08:00,i just sent you a code by mistake can you forward it,4
+"Transfer me $200 now, my account is frozen.",scam,other,2025-02-27 04:25:00,transfer me 200 now my account is frozen,9
+Call me when you are free.,legit,none,2025-03-21 18:27:00,call me when you are free,2
+Let's push the deployment to Friday.,legit,none,2025-02-06 07:36:00,lets push the deployment to friday,5
+Happy birthday! Hope you have a great day :),legit,none,2025-01-03 06:08:00,happy birthday hope you have a great day,6
+Urgent! Send money to this number or I'll be in trouble.,scam,other,2025-02-11 13:58:00,urgent send money to this number or ill be in trouble,8
+Call me when you are free.,legit,none,2025-03-10 08:19:00,call me when you are free,2
+Call me when you are free.,legit,none,2025-01-16 00:43:00,call me when you are free,2
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-02 01:51:00,hey are we still meeting at 5pm,1
+Call me when you are free.,legit,none,2025-01-28 09:26:00,call me when you are free,2
+Bank alert: Your account needs verification. Login at http://bank.example,scam,phishing,2025-03-31 05:22:00,bank alert your account needs verification login at,7
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-27 16:56:00,hey are we still meeting at 5pm,1
+Happy birthday! Hope you have a great day :),legit,none,2025-03-24 03:24:00,happy birthday hope you have a great day,6
+WhatsApp verification code: 805477. Please share the code so I can confirm.,scam,otp,2025-01-29 06:07:00,whatsapp verification code NUM please share the code so i can confirm,0
+Can you send the report by tomorrow morning?,legit,none,2025-02-08 09:36:00,can you send the report by tomorrow morning,4
+Your parcel is ready for delivery. Click http://fake-delivery.example to confirm.,scam,phishing,2025-01-26 17:52:00,your parcel is ready for delivery click to confirm,3
+"We detected unusual activity, verify here: http://verify.example",scam,phishing,2025-01-07 11:59:00,we detected unusual activity verify here,0
+Let's push the deployment to Friday.,legit,none,2025-02-16 00:04:00,lets push the deployment to friday,5
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-01-04 17:43:00,please send me the 6digit code i sent you — i need to log in,8
+"Transfer me $200 now, my account is frozen.",scam,other,2025-02-11 23:23:00,transfer me 200 now my account is frozen,9
+Call me when you are free.,legit,none,2025-01-23 09:51:00,call me when you are free,2
+"Hey it's Sam, lost my phone. I changed numbers, send me the verification code.",scam,impersonation,2025-02-05 03:24:00,hey its sam lost my phone i changed numbers send me the verification code,9
+"We detected unusual activity, verify here: http://verify.example",scam,phishing,2025-03-06 14:32:00,we detected unusual activity verify here,0
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-02-13 09:58:00,please send me the 6digit code i sent you — i need to log in,8
+Urgent! Send money to this number or I'll be in trouble.,scam,other,2025-03-12 14:37:00,urgent send money to this number or ill be in trouble,8
+Your account code 987654 — please confirm by sending it here.,scam,otp,2025-03-27 22:23:00,your account code NUM — please confirm by sending it here,0
+Let's push the deployment to Friday.,legit,none,2025-03-02 16:50:00,lets push the deployment to friday,5
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-03-01 14:13:00,please send me the 6digit code i sent you — i need to log in,8
+Let's push the deployment to Friday.,legit,none,2025-02-22 13:14:00,lets push the deployment to friday,5
+Let's push the deployment to Friday.,legit,none,2025-03-02 09:11:00,lets push the deployment to friday,5
+Can you send the report by tomorrow morning?,legit,none,2025-02-16 09:04:00,can you send the report by tomorrow morning,4
+WhatsApp verification code: 524045. Please share the code so I can confirm.,scam,otp,2025-03-04 23:13:00,whatsapp verification code NUM please share the code so i can confirm,0
+Can you send the report by tomorrow morning?,legit,none,2025-03-03 03:19:00,can you send the report by tomorrow morning,4
+Your account code 987654 — please confirm by sending it here.,scam,otp,2025-03-03 15:41:00,your account code NUM — please confirm by sending it here,0
+WhatsApp verification code: 206851. Please share the code so I can confirm.,scam,otp,2025-03-05 11:02:00,whatsapp verification code NUM please share the code so i can confirm,0
+Let's push the deployment to Friday.,legit,none,2025-03-18 17:14:00,lets push the deployment to friday,5
+"Hey it's Sam, lost my phone. I changed numbers, send me the verification code.",scam,impersonation,2025-01-04 23:20:00,hey its sam lost my phone i changed numbers send me the verification code,9
+Let's push the deployment to Friday.,legit,none,2025-03-26 05:32:00,lets push the deployment to friday,5
+"Hey, are we still meeting at 5pm?",legit,none,2025-02-25 10:40:00,hey are we still meeting at 5pm,1
+"Transfer me $200 now, my account is frozen.",scam,other,2025-03-24 05:30:00,transfer me 200 now my account is frozen,9
+"Transfer me $200 now, my account is frozen.",scam,other,2025-02-10 04:58:00,transfer me 200 now my account is frozen,9
+Let's push the deployment to Friday.,legit,none,2025-03-31 16:14:00,lets push the deployment to friday,5
+Can you send the report by tomorrow morning?,legit,none,2025-03-26 06:21:00,can you send the report by tomorrow morning,4
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-01-16 00:32:00,this is whatsapp support your otp is NUM please share to verify,3
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-04 01:13:00,hey are we still meeting at 5pm,1
+Let's push the deployment to Friday.,legit,none,2025-02-11 14:49:00,lets push the deployment to friday,5
+Happy birthday! Hope you have a great day :),legit,none,2025-01-20 12:00:00,happy birthday hope you have a great day,6
+WhatsApp verification code: 973349. Please share the code so I can confirm.,scam,otp,2025-02-08 05:49:00,whatsapp verification code NUM please share the code so i can confirm,0
+Your parcel is ready for delivery. Click http://fake-delivery.example to confirm.,scam,phishing,2025-01-15 05:57:00,your parcel is ready for delivery click to confirm,3
+"Hey, are we still meeting at 5pm?",legit,none,2025-01-09 09:37:00,hey are we still meeting at 5pm,1
+"Hey, are we still meeting at 5pm?",legit,none,2025-01-15 23:39:00,hey are we still meeting at 5pm,1
+Call me when you are free.,legit,none,2025-01-20 23:45:00,call me when you are free,2
+Your account code 987654 — please confirm by sending it here.,scam,otp,2025-02-03 13:51:00,your account code NUM — please confirm by sending it here,0
+"Investment opportunity, send your account details.",scam,other,2025-03-10 18:35:00,investment opportunity send your account details,7
+Call me when you are free.,legit,none,2025-03-06 00:54:00,call me when you are free,2
+Your parcel is ready for delivery. Click http://fake-delivery.example to confirm.,scam,phishing,2025-02-12 00:02:00,your parcel is ready for delivery click to confirm,3
+WhatsApp verification code: 430876. Please share the code so I can confirm.,scam,otp,2025-01-11 21:10:00,whatsapp verification code NUM please share the code so i can confirm,0
+Happy birthday! Hope you have a great day :),legit,none,2025-02-15 18:29:00,happy birthday hope you have a great day,6
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-09 13:50:00,hey are we still meeting at 5pm,1
+"We detected unusual activity, verify here: http://verify.example",scam,phishing,2025-02-15 08:43:00,we detected unusual activity verify here,0
+"This is your colleague Mark, I'm on a temporary phone — what's the code?",scam,impersonation,2025-03-20 05:15:00,this is your colleague mark im on a temporary phone — whats the code,3
+"Transfer me $200 now, my account is frozen.",scam,other,2025-03-31 00:21:00,transfer me 200 now my account is frozen,9
+Bank alert: Your account needs verification. Login at http://bank.example,scam,phishing,2025-03-08 20:36:00,bank alert your account needs verification login at,7
+Your parcel is ready for delivery. Click http://fake-delivery.example to confirm.,scam,phishing,2025-01-18 01:46:00,your parcel is ready for delivery click to confirm,3
+"I just sent you a code by mistake, can you forward it?",scam,otp,2025-02-27 07:02:00,i just sent you a code by mistake can you forward it,4
+"I just sent you a code by mistake, can you forward it?",scam,otp,2025-01-14 20:53:00,i just sent you a code by mistake can you forward it,4
+"This is your colleague Mark, I'm on a temporary phone — what's the code?",scam,impersonation,2025-01-14 02:54:00,this is your colleague mark im on a temporary phone — whats the code,3
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-01-25 14:00:00,please send me the 6digit code i sent you — i need to log in,8
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-02-11 00:09:00,please send me the 6digit code i sent you — i need to log in,8
+WhatsApp verification code: 384913. Please share the code so I can confirm.,scam,otp,2025-01-31 13:40:00,whatsapp verification code NUM please share the code so i can confirm,0
+"Investment opportunity, send your account details.",scam,other,2025-01-14 00:38:00,investment opportunity send your account details,7
+You have won a prize! Click this link to claim your reward: http://scam.example,scam,phishing,2025-02-26 16:09:00,you have won a prize click this link to claim your reward,6
+Happy birthday! Hope you have a great day :),legit,none,2025-01-14 00:06:00,happy birthday hope you have a great day,6
+WhatsApp verification code: 576786. Please share the code so I can confirm.,scam,otp,2025-01-30 18:00:00,whatsapp verification code NUM please share the code so i can confirm,0
+"Investment opportunity, send your account details.",scam,other,2025-01-27 20:56:00,investment opportunity send your account details,7
+"Hey, are we still meeting at 5pm?",legit,none,2025-01-21 20:21:00,hey are we still meeting at 5pm,1
+Let's push the deployment to Friday.,legit,none,2025-01-05 00:18:00,lets push the deployment to friday,5
+"Investment opportunity, send your account details.",scam,other,2025-03-21 06:22:00,investment opportunity send your account details,7
+Can you send the report by tomorrow morning?,legit,none,2025-01-21 06:59:00,can you send the report by tomorrow morning,4
+Happy birthday! Hope you have a great day :),legit,none,2025-01-12 14:24:00,happy birthday hope you have a great day,6
+"Hey, are we still meeting at 5pm?",legit,none,2025-02-10 08:02:00,hey are we still meeting at 5pm,1
+Bank alert: Your account needs verification. Login at http://bank.example,scam,phishing,2025-01-23 04:26:00,bank alert your account needs verification login at,7
+Your account code 987654 — please confirm by sending it here.,scam,otp,2025-03-02 10:12:00,your account code NUM — please confirm by sending it here,0
+Call me when you are free.,legit,none,2025-01-10 02:24:00,call me when you are free,2
+Happy birthday! Hope you have a great day :),legit,none,2025-01-15 02:09:00,happy birthday hope you have a great day,6
+Your parcel is ready for delivery. Click http://fake-delivery.example to confirm.,scam,phishing,2025-03-01 20:40:00,your parcel is ready for delivery click to confirm,3
+Call me when you are free.,legit,none,2025-03-04 12:27:00,call me when you are free,2
+Happy birthday! Hope you have a great day :),legit,none,2025-03-13 12:30:00,happy birthday hope you have a great day,6
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-03-17 14:24:00,please send me the 6digit code i sent you — i need to log in,8
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-03-25 12:14:00,please send me the 6digit code i sent you — i need to log in,8
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-03 06:59:00,hey are we still meeting at 5pm,1
+"Investment opportunity, send your account details.",scam,other,2025-01-22 22:06:00,investment opportunity send your account details,7
+"This is your colleague Mark, I'm on a temporary phone — what's the code?",scam,impersonation,2025-03-22 18:38:00,this is your colleague mark im on a temporary phone — whats the code,3
+Let's push the deployment to Friday.,legit,none,2025-03-30 09:21:00,lets push the deployment to friday,5
+"Hey it's Sam, lost my phone. I changed numbers, send me the verification code.",scam,impersonation,2025-01-14 06:00:00,hey its sam lost my phone i changed numbers send me the verification code,9
+Happy birthday! Hope you have a great day :),legit,none,2025-03-05 09:43:00,happy birthday hope you have a great day,6
+Can you send the report by tomorrow morning?,legit,none,2025-03-03 00:01:00,can you send the report by tomorrow morning,4
+Bank alert: Your account needs verification. Login at http://bank.example,scam,phishing,2025-03-04 17:57:00,bank alert your account needs verification login at,7
+"Hey, are we still meeting at 5pm?",legit,none,2025-02-04 14:23:00,hey are we still meeting at 5pm,1
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-28 00:29:00,hey are we still meeting at 5pm,1
+"Hey it's Sam, lost my phone. I changed numbers, send me the verification code.",scam,impersonation,2025-01-10 01:49:00,hey its sam lost my phone i changed numbers send me the verification code,9
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-03-28 15:30:00,please send me the 6digit code i sent you — i need to log in,8
+Can you send the report by tomorrow morning?,legit,none,2025-03-13 16:02:00,can you send the report by tomorrow morning,4
+Urgent! Send money to this number or I'll be in trouble.,scam,other,2025-03-24 00:43:00,urgent send money to this number or ill be in trouble,8
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-03-21 10:29:00,this is whatsapp support your otp is NUM please share to verify,3
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-03-11 00:14:00,this is whatsapp support your otp is NUM please share to verify,3
+Your parcel is ready for delivery. Click http://fake-delivery.example to confirm.,scam,phishing,2025-03-11 11:02:00,your parcel is ready for delivery click to confirm,3
+"This is your colleague Mark, I'm on a temporary phone — what's the code?",scam,impersonation,2025-03-30 06:54:00,this is your colleague mark im on a temporary phone — whats the code,3
+Can you send the report by tomorrow morning?,legit,none,2025-03-06 03:09:00,can you send the report by tomorrow morning,4
+Your parcel is ready for delivery. Click http://fake-delivery.example to confirm.,scam,phishing,2025-02-19 13:36:00,your parcel is ready for delivery click to confirm,3
+WhatsApp verification code: 945742. Please share the code so I can confirm.,scam,otp,2025-01-19 03:00:00,whatsapp verification code NUM please share the code so i can confirm,0
+Can you send the report by tomorrow morning?,legit,none,2025-02-18 14:50:00,can you send the report by tomorrow morning,4
+Urgent! Send money to this number or I'll be in trouble.,scam,other,2025-03-25 02:06:00,urgent send money to this number or ill be in trouble,8
+Your parcel is ready for delivery. Click http://fake-delivery.example to confirm.,scam,phishing,2025-01-19 12:40:00,your parcel is ready for delivery click to confirm,3
+Your parcel is ready for delivery. Click http://fake-delivery.example to confirm.,scam,phishing,2025-01-22 01:40:00,your parcel is ready for delivery click to confirm,3
+Can you send the report by tomorrow morning?,legit,none,2025-03-26 13:14:00,can you send the report by tomorrow morning,4
+WhatsApp verification code: 232352. Please share the code so I can confirm.,scam,otp,2025-02-13 02:30:00,whatsapp verification code NUM please share the code so i can confirm,0
+Your parcel is ready for delivery. Click http://fake-delivery.example to confirm.,scam,phishing,2025-02-07 04:25:00,your parcel is ready for delivery click to confirm,3
+Your parcel is ready for delivery. Click http://fake-delivery.example to confirm.,scam,phishing,2025-01-21 20:05:00,your parcel is ready for delivery click to confirm,3
+Let's push the deployment to Friday.,legit,none,2025-01-20 23:06:00,lets push the deployment to friday,5
+Call me when you are free.,legit,none,2025-02-11 02:17:00,call me when you are free,2
+WhatsApp verification code: 416950. Please share the code so I can confirm.,scam,otp,2025-01-02 06:54:00,whatsapp verification code NUM please share the code so i can confirm,0
+Let's push the deployment to Friday.,legit,none,2025-03-02 21:24:00,lets push the deployment to friday,5
+Let's push the deployment to Friday.,legit,none,2025-01-07 00:35:00,lets push the deployment to friday,5
+Happy birthday! Hope you have a great day :),legit,none,2025-02-01 11:09:00,happy birthday hope you have a great day,6
+Bank alert: Your account needs verification. Login at http://bank.example,scam,phishing,2025-03-20 18:11:00,bank alert your account needs verification login at,7
+Happy birthday! Hope you have a great day :),legit,none,2025-01-31 23:17:00,happy birthday hope you have a great day,6
+WhatsApp verification code: 387936. Please share the code so I can confirm.,scam,otp,2025-02-10 00:54:00,whatsapp verification code NUM please share the code so i can confirm,0
+Can you send the report by tomorrow morning?,legit,none,2025-03-20 16:45:00,can you send the report by tomorrow morning,4
+"I just sent you a code by mistake, can you forward it?",scam,otp,2025-03-29 03:13:00,i just sent you a code by mistake can you forward it,4
+Can you send the report by tomorrow morning?,legit,none,2025-03-05 13:06:00,can you send the report by tomorrow morning,4
+"Investment opportunity, send your account details.",scam,other,2025-02-03 05:03:00,investment opportunity send your account details,7
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-30 13:48:00,hey are we still meeting at 5pm,1
+Call me when you are free.,legit,none,2025-03-10 17:54:00,call me when you are free,2
+Call me when you are free.,legit,none,2025-01-07 04:27:00,call me when you are free,2
+Happy birthday! Hope you have a great day :),legit,none,2025-02-01 19:50:00,happy birthday hope you have a great day,6
+Happy birthday! Hope you have a great day :),legit,none,2025-01-23 02:50:00,happy birthday hope you have a great day,6
+Can you send the report by tomorrow morning?,legit,none,2025-01-26 08:29:00,can you send the report by tomorrow morning,4
+Let's push the deployment to Friday.,legit,none,2025-02-26 17:18:00,lets push the deployment to friday,5
+Can you send the report by tomorrow morning?,legit,none,2025-01-13 16:49:00,can you send the report by tomorrow morning,4
+Call me when you are free.,legit,none,2025-01-09 21:53:00,call me when you are free,2
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-01-14 21:48:00,this is whatsapp support your otp is NUM please share to verify,3
+"Hey, are we still meeting at 5pm?",legit,none,2025-02-02 04:37:00,hey are we still meeting at 5pm,1
+"Hey, are we still meeting at 5pm?",legit,none,2025-01-31 08:39:00,hey are we still meeting at 5pm,1
+Call me when you are free.,legit,none,2025-01-15 03:34:00,call me when you are free,2
+Can you send the report by tomorrow morning?,legit,none,2025-03-14 02:19:00,can you send the report by tomorrow morning,4
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-22 23:36:00,hey are we still meeting at 5pm,1
+Call me when you are free.,legit,none,2025-01-22 15:55:00,call me when you are free,2
+Happy birthday! Hope you have a great day :),legit,none,2025-03-15 00:30:00,happy birthday hope you have a great day,6
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-02-23 03:56:00,this is whatsapp support your otp is NUM please share to verify,3
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-15 06:38:00,hey are we still meeting at 5pm,1
+"Hey, are we still meeting at 5pm?",legit,none,2025-02-02 16:12:00,hey are we still meeting at 5pm,1
+Happy birthday! Hope you have a great day :),legit,none,2025-01-23 20:34:00,happy birthday hope you have a great day,6
+Can you send the report by tomorrow morning?,legit,none,2025-02-19 02:17:00,can you send the report by tomorrow morning,4
+"Investment opportunity, send your account details.",scam,other,2025-03-29 13:35:00,investment opportunity send your account details,7
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-24 09:55:00,hey are we still meeting at 5pm,1
+Happy birthday! Hope you have a great day :),legit,none,2025-02-26 12:56:00,happy birthday hope you have a great day,6
+Happy birthday! Hope you have a great day :),legit,none,2025-01-07 08:51:00,happy birthday hope you have a great day,6
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-03-22 02:37:00,please send me the 6digit code i sent you — i need to log in,8
+Let's push the deployment to Friday.,legit,none,2025-03-09 23:52:00,lets push the deployment to friday,5
+"I just sent you a code by mistake, can you forward it?",scam,otp,2025-01-03 19:47:00,i just sent you a code by mistake can you forward it,4
+Hi it's John on a new number — can you confirm my code? 564321,scam,impersonation,2025-02-15 02:03:00,hi its john on a new number — can you confirm my code NUM,0
+WhatsApp verification code: 426147. Please share the code so I can confirm.,scam,otp,2025-01-10 20:08:00,whatsapp verification code NUM please share the code so i can confirm,0
+Hi it's John on a new number — can you confirm my code? 564321,scam,impersonation,2025-02-27 10:47:00,hi its john on a new number — can you confirm my code NUM,0
+"I just sent you a code by mistake, can you forward it?",scam,otp,2025-03-28 06:24:00,i just sent you a code by mistake can you forward it,4
+Call me when you are free.,legit,none,2025-03-10 05:15:00,call me when you are free,2
+"We detected unusual activity, verify here: http://verify.example",scam,phishing,2025-01-25 02:07:00,we detected unusual activity verify here,0
+"We detected unusual activity, verify here: http://verify.example",scam,phishing,2025-02-26 22:27:00,we detected unusual activity verify here,0
+Can you send the report by tomorrow morning?,legit,none,2025-02-27 23:47:00,can you send the report by tomorrow morning,4
+Hi it's John on a new number — can you confirm my code? 564321,scam,impersonation,2025-03-11 05:03:00,hi its john on a new number — can you confirm my code NUM,0
+Can you send the report by tomorrow morning?,legit,none,2025-03-12 08:47:00,can you send the report by tomorrow morning,4
+Let's push the deployment to Friday.,legit,none,2025-02-16 03:49:00,lets push the deployment to friday,5
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-02-13 01:51:00,please send me the 6digit code i sent you — i need to log in,8
+Bank alert: Your account needs verification. Login at http://bank.example,scam,phishing,2025-03-05 03:21:00,bank alert your account needs verification login at,7
+Call me when you are free.,legit,none,2025-03-28 04:38:00,call me when you are free,2
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-03-04 19:41:00,please send me the 6digit code i sent you — i need to log in,8
+Happy birthday! Hope you have a great day :),legit,none,2025-01-20 10:56:00,happy birthday hope you have a great day,6
+"I just sent you a code by mistake, can you forward it?",scam,otp,2025-01-18 16:03:00,i just sent you a code by mistake can you forward it,4
+"Hey it's Sam, lost my phone. I changed numbers, send me the verification code.",scam,impersonation,2025-03-06 04:35:00,hey its sam lost my phone i changed numbers send me the verification code,9
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-03-27 16:40:00,this is whatsapp support your otp is NUM please share to verify,3
+You have won a prize! Click this link to claim your reward: http://scam.example,scam,phishing,2025-03-05 23:41:00,you have won a prize click this link to claim your reward,6
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-01-30 08:05:00,please send me the 6digit code i sent you — i need to log in,8
+Happy birthday! Hope you have a great day :),legit,none,2025-02-07 10:03:00,happy birthday hope you have a great day,6
+"Hey it's Sam, lost my phone. I changed numbers, send me the verification code.",scam,impersonation,2025-01-22 06:13:00,hey its sam lost my phone i changed numbers send me the verification code,9
+Happy birthday! Hope you have a great day :),legit,none,2025-03-30 15:22:00,happy birthday hope you have a great day,6
+Let's push the deployment to Friday.,legit,none,2025-01-22 19:05:00,lets push the deployment to friday,5
+Can you send the report by tomorrow morning?,legit,none,2025-01-06 19:52:00,can you send the report by tomorrow morning,4
+Your parcel is ready for delivery. Click http://fake-delivery.example to confirm.,scam,phishing,2025-02-11 09:34:00,your parcel is ready for delivery click to confirm,3
+"I just sent you a code by mistake, can you forward it?",scam,otp,2025-02-07 17:21:00,i just sent you a code by mistake can you forward it,4
+Let's push the deployment to Friday.,legit,none,2025-02-11 06:29:00,lets push the deployment to friday,5
+Happy birthday! Hope you have a great day :),legit,none,2025-02-04 12:55:00,happy birthday hope you have a great day,6
+Let's push the deployment to Friday.,legit,none,2025-03-14 20:55:00,lets push the deployment to friday,5
+Let's push the deployment to Friday.,legit,none,2025-01-02 21:57:00,lets push the deployment to friday,5
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-02-01 06:56:00,please send me the 6digit code i sent you — i need to log in,8
+WhatsApp verification code: 125611. Please share the code so I can confirm.,scam,otp,2025-01-05 04:57:00,whatsapp verification code NUM please share the code so i can confirm,0
+You have won a prize! Click this link to claim your reward: http://scam.example,scam,phishing,2025-02-24 03:53:00,you have won a prize click this link to claim your reward,6
+Call me when you are free.,legit,none,2025-02-06 08:30:00,call me when you are free,2
+"Hey, are we still meeting at 5pm?",legit,none,2025-01-11 04:23:00,hey are we still meeting at 5pm,1
+WhatsApp verification code: 258157. Please share the code so I can confirm.,scam,otp,2025-01-22 01:11:00,whatsapp verification code NUM please share the code so i can confirm,0
+"Hey it's Sam, lost my phone. I changed numbers, send me the verification code.",scam,impersonation,2025-03-19 13:58:00,hey its sam lost my phone i changed numbers send me the verification code,9
+Happy birthday! Hope you have a great day :),legit,none,2025-02-18 19:24:00,happy birthday hope you have a great day,6
+Your parcel is ready for delivery. Click http://fake-delivery.example to confirm.,scam,phishing,2025-02-24 10:25:00,your parcel is ready for delivery click to confirm,3
+Call me when you are free.,legit,none,2025-03-22 11:25:00,call me when you are free,2
+Call me when you are free.,legit,none,2025-02-08 12:21:00,call me when you are free,2
+WhatsApp verification code: 179688. Please share the code so I can confirm.,scam,otp,2025-02-23 21:27:00,whatsapp verification code NUM please share the code so i can confirm,0
+Your account code 987654 — please confirm by sending it here.,scam,otp,2025-03-23 03:40:00,your account code NUM — please confirm by sending it here,0
+"Hey it's Sam, lost my phone. I changed numbers, send me the verification code.",scam,impersonation,2025-02-21 12:17:00,hey its sam lost my phone i changed numbers send me the verification code,9
+Call me when you are free.,legit,none,2025-03-29 14:41:00,call me when you are free,2
+Please send me the 6-digit code I sent you — I need to log in.,scam,otp,2025-03-26 13:11:00,please send me the 6digit code i sent you — i need to log in,8
+Bank alert: Your account needs verification. Login at http://bank.example,scam,phishing,2025-01-07 11:29:00,bank alert your account needs verification login at,7
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-20 05:54:00,hey are we still meeting at 5pm,1
+"We detected unusual activity, verify here: http://verify.example",scam,phishing,2025-02-22 01:06:00,we detected unusual activity verify here,0
+"Hey, are we still meeting at 5pm?",legit,none,2025-02-24 07:13:00,hey are we still meeting at 5pm,1
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-11 01:38:00,hey are we still meeting at 5pm,1
+WhatsApp verification code: 611233. Please share the code so I can confirm.,scam,otp,2025-01-20 07:22:00,whatsapp verification code NUM please share the code so i can confirm,0
+Urgent! Send money to this number or I'll be in trouble.,scam,other,2025-01-04 00:53:00,urgent send money to this number or ill be in trouble,8
+"Investment opportunity, send your account details.",scam,other,2025-01-23 19:30:00,investment opportunity send your account details,7
+"Hey it's Sam, lost my phone. I changed numbers, send me the verification code.",scam,impersonation,2025-01-31 19:35:00,hey its sam lost my phone i changed numbers send me the verification code,9
+Your account code 987654 — please confirm by sending it here.,scam,otp,2025-03-22 03:05:00,your account code NUM — please confirm by sending it here,0
+Call me when you are free.,legit,none,2025-01-14 11:30:00,call me when you are free,2
+"Hey, are we still meeting at 5pm?",legit,none,2025-01-23 15:11:00,hey are we still meeting at 5pm,1
+"Hey, are we still meeting at 5pm?",legit,none,2025-03-03 22:06:00,hey are we still meeting at 5pm,1
+Bank alert: Your account needs verification. Login at http://bank.example,scam,phishing,2025-03-27 19:18:00,bank alert your account needs verification login at,7
+"Hey, are we still meeting at 5pm?",legit,none,2025-01-23 13:33:00,hey are we still meeting at 5pm,1
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-03-10 00:58:00,this is whatsapp support your otp is NUM please share to verify,3
+"Transfer me $200 now, my account is frozen.",scam,other,2025-01-29 02:52:00,transfer me 200 now my account is frozen,9
+You have won a prize! Click this link to claim your reward: http://scam.example,scam,phishing,2025-01-17 12:28:00,you have won a prize click this link to claim your reward,6
+Let's push the deployment to Friday.,legit,none,2025-02-01 23:05:00,lets push the deployment to friday,5
+Can you send the report by tomorrow morning?,legit,none,2025-03-30 04:10:00,can you send the report by tomorrow morning,4
+Call me when you are free.,legit,none,2025-03-26 05:56:00,call me when you are free,2
+Bank alert: Your account needs verification. Login at http://bank.example,scam,phishing,2025-02-26 22:13:00,bank alert your account needs verification login at,7
+"We detected unusual activity, verify here: http://verify.example",scam,phishing,2025-02-10 15:29:00,we detected unusual activity verify here,0
+WhatsApp verification code: 735324. Please share the code so I can confirm.,scam,otp,2025-02-25 06:33:00,whatsapp verification code NUM please share the code so i can confirm,0
+"Hey it's Sam, lost my phone. I changed numbers, send me the verification code.",scam,impersonation,2025-03-09 18:49:00,hey its sam lost my phone i changed numbers send me the verification code,9
+Happy birthday! Hope you have a great day :),legit,none,2025-01-18 07:57:00,happy birthday hope you have a great day,6
+Let's push the deployment to Friday.,legit,none,2025-02-25 16:13:00,lets push the deployment to friday,5
+Can you send the report by tomorrow morning?,legit,none,2025-02-06 18:03:00,can you send the report by tomorrow morning,4
+WhatsApp verification code: 300845. Please share the code so I can confirm.,scam,otp,2025-01-20 16:41:00,whatsapp verification code NUM please share the code so i can confirm,0
+Your account code 987654 — please confirm by sending it here.,scam,otp,2025-01-08 08:01:00,your account code NUM — please confirm by sending it here,0
+This is WhatsApp support. Your OTP is 345678. Please share to verify.,scam,otp,2025-01-20 10:50:00,this is whatsapp support your otp is NUM please share to verify,3
+Let's push the deployment to Friday.,legit,none,2025-03-11 09:43:00,lets push the deployment to friday,5
+Happy birthday! Hope you have a great day :),legit,none,2025-03-15 12:00:00,happy birthday hope you have a great day,6

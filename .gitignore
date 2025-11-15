@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+
+# Logs
+*.log
+classify_log.csv
+
+# Model files (optional)
+*.joblib
+
+# VS Code settings
+.vscode/
